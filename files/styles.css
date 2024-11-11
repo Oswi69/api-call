@@ -38,14 +38,14 @@ input {
 button {
     padding: 10px 15px;
     border: none;
-    background-color: #4CAF50;
+    background-color: #333333 ;
     color: white;
     border-radius: 4px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #555555;
 }
 
 table {
